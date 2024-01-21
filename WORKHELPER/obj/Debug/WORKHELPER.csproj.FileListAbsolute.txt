@@ -1,0 +1,10 @@
+D:\Develop\WORKHELPER\bin\Debug\WORKHELPER.exe.config
+D:\Develop\WORKHELPER\bin\Debug\WORKHELPER.exe
+D:\Develop\WORKHELPER\bin\Debug\WORKHELPER.pdb
+D:\Develop\WORKHELPER\obj\Debug\WORKHELPER.csproj.AssemblyReference.cache
+D:\Develop\WORKHELPER\obj\Debug\WORKHELPER.Form1.resources
+D:\Develop\WORKHELPER\obj\Debug\WORKHELPER.Properties.Resources.resources
+D:\Develop\WORKHELPER\obj\Debug\WORKHELPER.csproj.GenerateResource.cache
+D:\Develop\WORKHELPER\obj\Debug\WORKHELPER.csproj.CoreCompileInputs.cache
+D:\Develop\WORKHELPER\obj\Debug\WORKHELPER.exe
+D:\Develop\WORKHELPER\obj\Debug\WORKHELPER.pdb
